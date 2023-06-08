@@ -1,3 +1,3 @@
 # FactoryMethodApp
 *******
-Short description abpout the project 
+Sample .NET application using the Factory Method creational design pattern.
